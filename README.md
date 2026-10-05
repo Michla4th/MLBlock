@@ -20,11 +20,11 @@ A simple and fun mobile application to learn programming and control STEM microc
 
 | Main Menu | Block Programming | Python View |
 | :---: | :---: | :---: |
-| ![Main Menu](assets/main_menu.png) | ![Block Coding](assets/block_coding.png) | ![Python View](assets/python_view.png) |
+| ![Main Menu](assets/main_menu.jpg) | ![Block Coding](assets/block_coding.jpg) | ![Python View](assets/python_view.jpg) |
 
 | Bluetooth Connect | Terminal Screen | Project List |
 | :---: | :---: | :---: |
-| ![Bluetooth](assets/bluetooth.png) | ![Terminal](assets/terminal.png) | ![Project List](assets/project_list.png) |
+| ![Bluetooth](assets/bluetooth.jpg) | ![Terminal](assets/terminal.jpg) | ![Project List](assets/project_list.jpg) |
 
 ---
 
