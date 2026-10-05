@@ -16,6 +16,19 @@ A simple and fun mobile application to learn programming and control STEM microc
 
 ---
 
+## 🤖 Hardware: MiLa:bit Board & Hub
+
+The app is specially designed for the **MiLa:bit** microcontroller board[cite: 2, 7, 10]:
+
+* **Compact PCB Hardware**: Equipped with a microcontroller, buttons, LEDs, buzzer, and expansion ports[cite: 7, 10].
+* **LEGO Compatibility**: Designed with a custom casing to fit perfectly with LEGO bricks for building creative robots[cite: 8, 9].
+
+| Real PCB Board | 3D Design Model | Exploded Hub View | Assembled Hub |
+| :---: | :---: | :---: | :---: |
+| ![Real Board](assets/Mila-bit-pcb.jpg) | ![3D Model](assets/Mila-bit.jpg) | ![Exploded View](assets/MiLa_Hub-1.png) | ![Assembled Hub](assets/MiLa_Hub.png) |
+
+---
+
 ## 📱 App Screenshots
 
 | Main Menu | Block Programming | Python View |
